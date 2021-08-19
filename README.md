@@ -1,5 +1,3 @@
 # My Awesome CV
 
-I created this CV with Python and Flask
-
-I'm the *best*
+Simple CV base created with Python and Flask
