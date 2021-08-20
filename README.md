@@ -1,3 +1,4 @@
 # My Awesome CV
 
-Simple CV base created with Python and Flask
+Simple CV site
+Created with Python and Flask
